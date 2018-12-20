@@ -85,8 +85,13 @@
 			<artifactId>selenium-chrome-driver</artifactId>
 			<version>3.14.0</version>
 		</dependency>
-	</dependencies>
-	<build>
+		<dependency>
+    <groupId>log4j</groupId>
+    <artifactId>log4j</artifactId>
+    <version>1.2.17</version>
+</dependency>
+		</dependencies>
+		<build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

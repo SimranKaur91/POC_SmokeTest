@@ -1,7 +1,14 @@
 package stepDefinition;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -19,30 +26,41 @@ import cucumber.api.java.en.When;
 public class LoginStepDefinition {
 
 	WebDriver driver;
+	Properties property = new Properties();
+	FileInputStream read;
+	static Logger log;
 	
-
 	@Given("^User is already on Login page$")
-	public void User_is_already_on_Login_page() {
+	public void User_is_already_on_Login_page() throws IOException {
+//		PropertyConfigurator.configure("C:\\Users\\Simran Kaur\\eclipse-workspace\\WebSur\\src\\log4.properties");
+		log = Logger.getLogger("rootLogger");
+
+		BasicConfigurator.configure();
 		System.setProperty("webdriver.chrome.driver", "C:/Selenium/apps/chromedriver.exe");
 		driver = new ChromeDriver();
-		driver.get("http://parabank.parasoft.com/parabank/admin.htm");
+		log.debug("chrome browser opened");
+    	read = new FileInputStream (System.getProperty("user.dir")+"\\src\\config.properties");  
+		property.load(read);
+		driver.get(property.getProperty("Url"));
+		log.debug("navigated to url");
+	}
+	
+	@When("^User enter Username and Password$")
+	public void user_enter_creadentials() {
+		driver.findElement(By.name("username")).sendKeys(property.getProperty("Username"));
+		driver.findElement(By.name("password")).sendKeys(property.getProperty("Password"));
 
+		
 	}
 	
-	@When("^User enter \"(.*)\" and \"(.*)\"$")
-	public void user_enter_creadentials(String username, String password) {
-		driver.findElement(By.name("username")).sendKeys(username);
-		driver.findElement(By.name("password")).sendKeys(password);
-	}
-	
-	@And("^User clicks on login$")
+	@And("^User login successfully$")
 	public void User_clicks_on_login() {
 		driver.findElement(By.cssSelector("input[type='submit']")).click();
 		String lngMsg = driver.findElement(By.xpath("//p[@class='smallText']/b")).getText();
 		Assert.assertTrue(lngMsg.contains("Welcome"));
 	}
 
-	@And("^User is on Home Page$")
+	@Then("^User is on Home Page$")
 	public void User_is_on_Home_Page() {
 		String lngMsg = driver.findElement(By.xpath("//p[@class='smallText']/b")).getText();
 		Assert.assertTrue(lngMsg.contains("Welcome"));
@@ -72,9 +90,11 @@ public class LoginStepDefinition {
 		acID.selectByVisibleText(actid);
 	}
 
-	@And("^User creates a new account$")
-	public void user_created_account() {
+	@Then("^User creates a new account sucessfully with \"(.*)\"$")
+	public void user_created_account(String actCreationMsg) {
 		driver.findElement(By.cssSelector("input[type='submit']")).click();
+		String newActMsg = driver.findElement(By.xpath("//div [@class='ng-scope']/p[1]")).getText();		
+		Assert.assertTrue(newActMsg.contains(newActMsg));
 
 	}
 
@@ -102,19 +122,19 @@ public class LoginStepDefinition {
 
 	}
 
-	@And("^User Transfers the fund successfully$")
-	public void fund_transfered_successfully() {
+	@Then("^User receives a \"([^\"]*)\"successfully$")
+	public void fund_transfered_successfully(String Tfmsg) {
 		driver.findElement(By.cssSelector("input[type='submit']")).click();
 		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
 		driver.findElement(By.className("title"));
 		driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
-		String tfcMsg = driver.findElement(By.className("title")).getText();
-		driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
-		Assert.assertTrue(tfcMsg.contains("Transfer Complete!"));
+		String tfcMsg = driver.findElement(By.xpath("//div [@class='ng-scope']/p[1]")).getText();
+//		driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
+		Assert.assertTrue(tfcMsg.contains(Tfmsg));
 		
 	}
 
-	@Then("^User close the browser$")
+	@And("^User close the browser$")
 	public void tear_down() {
 		driver.quit();
 
