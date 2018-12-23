@@ -1,0 +1,305 @@
+2018-12-22 16:50:26,379 ERROR [Log] Unable to open config file. Error: [Ljava.lang.StackTraceElement;@11963225 
+2018-12-22 16:50:27,158 ERROR [Log] Unable to find element. Error Line: [Ljava.lang.StackTraceElement;@7a34b7b8 
+2018-12-22 16:50:27,191 ERROR [Log] Unable to open config file. Error: [Ljava.lang.StackTraceElement;@6b5f8707 
+2018-12-22 16:50:27,193 ERROR [Log] Unable to find element. Error Line: [Ljava.lang.StackTraceElement;@772485dd 
+2018-12-22 16:52:00,491 INFO  [Log] User has Logged in Successfully 
+2018-12-22 16:52:00,525 INFO  [Log] User is on Home Page 
+2018-12-22 16:52:01,031 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:05:56,934 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:05:56,976 INFO  [Log] User is on Home Page 
+2018-12-22 17:05:57,562 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:09:19,273 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:09:19,303 INFO  [Log] User is on Home Page 
+2018-12-22 17:09:34,913 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:14:41,925 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:14:41,952 INFO  [Log] User is on Home Page 
+2018-12-22 17:14:46,391 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:29:38,672 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:29:38,709 INFO  [Log] User is on Home Page 
+2018-12-22 17:29:41,503 ERROR [Log] Unable to find element. Error: [Ljava.lang.StackTraceElement;@30cdae70 
+2018-12-22 17:29:53,102 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:29:53,141 INFO  [Log] User is on Home Page 
+2018-12-22 17:29:55,918 ERROR [Log] Unable to find element. Error: [Ljava.lang.StackTraceElement;@7051777c 
+2018-12-22 17:31:54,006 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:31:54,035 INFO  [Log] User is on Home Page 
+2018-12-22 17:31:54,730 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:35:30,740 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:35:30,768 INFO  [Log] User is on Home Page 
+2018-12-22 17:35:33,036 ERROR [Log] Unable to find element. Error: [Ljava.lang.StackTraceElement;@30cdae70 
+2018-12-22 17:35:41,683 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:35:41,720 INFO  [Log] User is on Home Page 
+2018-12-22 17:35:44,139 ERROR [Log] Unable to find element. Error: [Ljava.lang.StackTraceElement;@72458efc 
+2018-12-22 17:38:33,568 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:38:33,621 INFO  [Log] User is on Home Page 
+2018-12-22 17:38:34,158 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:39:06,680 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:39:06,706 INFO  [Log] User is on Home Page 
+2018-12-22 17:39:07,224 INFO  [Log] User is on Open New Account Page 
+2018-12-22 17:41:17,829 INFO  [Log] User has Logged in Successfully 
+2018-12-22 17:41:17,859 INFO  [Log] User is on Home Page 
+2018-12-22 17:41:18,403 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:11:00,764 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:11:00,803 INFO  [Log] User is on Home Page 
+2018-12-22 18:11:01,417 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:12:49,326 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:12:49,358 INFO  [Log] User is on Home Page 
+2018-12-22 18:12:49,890 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:24:11,855 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:24:11,890 INFO  [Log] User is on Home Page 
+2018-12-22 18:24:12,415 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:27:44,414 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:27:44,444 INFO  [Log] User is on Home Page 
+2018-12-22 18:27:44,973 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:37:09,067 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:37:09,102 INFO  [Log] User is on Home Page 
+2018-12-22 18:37:09,653 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:37:42,356 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:37:42,382 INFO  [Log] User is on Home Page 
+2018-12-22 18:37:42,952 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:40:24,835 INFO  [Log] User has Logged in Successfully 
+2018-12-22 18:40:24,876 INFO  [Log] User is on Home Page 
+2018-12-22 18:40:25,510 INFO  [Log] User is on Open New Account Page 
+2018-12-22 18:40:25,795 INFO  [Log] Account type is selected 
+2018-12-22 18:40:26,096 INFO  [Log] Account number is selected 
+2018-12-22 19:24:19,723 INFO  [Log] User has Logged in Successfully 
+2018-12-22 19:24:19,772 INFO  [Log] User is on Home Page 
+2018-12-22 19:24:20,327 INFO  [Log] User is on Open New Account Page 
+2018-12-22 19:24:51,982 INFO  [Log] User has Logged in Successfully 
+2018-12-22 19:24:52,009 INFO  [Log] User is on Home Page 
+2018-12-22 19:27:37,045 INFO  [Log] User has Logged in Successfully 
+2018-12-22 19:27:37,099 INFO  [Log] User is on Home Page 
+2018-12-22 19:41:20,977 INFO  [Log] Config file is accessed successfully 
+2018-12-22 19:41:26,597 INFO  [Log] Config file is accessed successfully 
+2018-12-22 19:41:29,878 INFO  [Log] User has Logged in Successfully 
+2018-12-22 19:41:29,907 INFO  [Log] User is on Home Page 
+2018-12-22 19:41:30,544 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 19:41:31,465 INFO  [Log] User clicks on fund transfer 
+2018-12-22 19:41:31,505 INFO  [Log] Fund transferred successfully 
+2018-12-22 19:54:05,320 INFO  [Log] Config file is accessed successfully 
+2018-12-22 19:54:09,634 INFO  [Log] Config file is accessed successfully 
+2018-12-22 19:54:12,149 INFO  [Log] User has Logged in Successfully 
+2018-12-22 19:54:12,183 INFO  [Log] User is on Home Page 
+2018-12-22 19:54:12,851 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 19:54:13,860 INFO  [Log] User clicks on fund transfer 
+2018-12-22 19:54:13,894 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:01:41,469 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:01:45,756 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:01:48,279 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:01:48,307 INFO  [Log] User is on Home Page 
+2018-12-22 20:01:49,164 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:01:50,090 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:01:50,137 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:08:58,203 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:09:04,615 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:09:07,081 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:09:07,115 INFO  [Log] User is on Home Page 
+2018-12-22 20:09:07,764 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:09:08,675 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:09:08,805 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:10:27,737 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:10:31,651 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:10:34,019 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:10:34,049 INFO  [Log] User is on Home Page 
+2018-12-22 20:10:34,829 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:10:35,734 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:10:35,778 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:12:21,476 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:12:25,417 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:12:27,765 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:12:27,802 INFO  [Log] User is on Home Page 
+2018-12-22 20:12:28,457 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:12:29,379 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:12:29,418 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:13:55,400 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:13:59,525 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:01,913 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:14:01,945 INFO  [Log] User is on Home Page 
+2018-12-22 20:14:02,588 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:14:04,106 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:06,304 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:10,240 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:12,728 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:14:12,747 INFO  [Log] User is on Home Page 
+2018-12-22 20:14:13,377 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:14:14,350 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:14:14,398 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:14:40,462 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:44,603 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:47,034 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:14:47,074 INFO  [Log] User is on Home Page 
+2018-12-22 20:14:47,617 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:14:49,176 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:51,298 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:55,038 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:14:57,486 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:14:57,513 INFO  [Log] User is on Home Page 
+2018-12-22 20:14:58,258 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:14:59,188 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:14:59,237 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:15:42,298 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:15:47,172 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:15:50,108 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:15:50,149 INFO  [Log] User is on Home Page 
+2018-12-22 20:15:50,767 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:15:52,860 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:15:55,075 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:15:59,750 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:16:02,566 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:16:02,599 INFO  [Log] User is on Home Page 
+2018-12-22 20:16:03,325 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:16:04,239 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:16:04,319 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:17:02,039 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:06,044 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:08,425 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:17:08,455 INFO  [Log] User is on Home Page 
+2018-12-22 20:17:09,104 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:11,340 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:15,180 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:17,546 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:17:17,571 INFO  [Log] User is on Home Page 
+2018-12-22 20:17:18,109 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:17:19,582 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:21,678 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:25,294 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:17:27,629 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:17:27,656 INFO  [Log] User is on Home Page 
+2018-12-22 20:17:28,301 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:17:29,259 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:17:29,308 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:19:14,519 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:18,911 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:21,320 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:19:21,361 INFO  [Log] User is on Home Page 
+2018-12-22 20:19:22,045 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:24,241 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:28,284 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:30,763 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:19:30,796 INFO  [Log] User is on Home Page 
+2018-12-22 20:19:31,349 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:19:32,835 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:35,012 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:38,819 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:19:41,348 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:19:41,380 INFO  [Log] User is on Home Page 
+2018-12-22 20:19:42,052 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:19:42,977 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:19:43,219 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:21:35,423 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:40,235 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:42,606 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:21:42,649 INFO  [Log] User is on Home Page 
+2018-12-22 20:21:43,281 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:45,697 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:49,604 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:51,518 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:21:51,552 INFO  [Log] User is on Home Page 
+2018-12-22 20:21:52,069 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:21:53,482 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:55,659 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:21:59,681 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:22:01,465 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:22:01,486 INFO  [Log] User is on Home Page 
+2018-12-22 20:22:02,132 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:22:03,049 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:22:03,087 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:23:42,534 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:23:46,638 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:23:48,930 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:23:48,954 INFO  [Log] User is on Home Page 
+2018-12-22 20:23:49,587 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:23:51,708 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:23:55,675 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:23:58,072 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:23:58,095 INFO  [Log] User is on Home Page 
+2018-12-22 20:23:58,650 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:24:00,155 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:24:02,331 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:24:06,086 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:24:08,485 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:24:08,506 INFO  [Log] User is on Home Page 
+2018-12-22 20:24:09,169 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:24:10,075 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:24:10,151 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:28:43,796 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:28:48,159 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:28:50,687 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:28:50,731 INFO  [Log] User is on Home Page 
+2018-12-22 20:28:51,452 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:29:56,224 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:30:00,214 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:30:02,632 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:30:02,664 INFO  [Log] User is on Home Page 
+2018-12-22 20:30:03,216 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:37:49,835 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:37:54,148 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:37:56,580 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:37:56,619 INFO  [Log] User is on Home Page 
+2018-12-22 20:37:57,242 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:37:59,488 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:38:03,547 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:38:05,799 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:38:05,821 INFO  [Log] User is on Home Page 
+2018-12-22 20:38:06,318 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:38:07,760 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:38:10,044 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:38:14,044 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:38:16,411 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:38:16,434 INFO  [Log] User is on Home Page 
+2018-12-22 20:38:17,155 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:38:18,087 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:38:18,129 INFO  [Log] Fund transferred successfully 
+2018-12-22 20:40:36,546 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:41,092 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:44,082 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:40:44,130 INFO  [Log] User is on Home Page 
+2018-12-22 20:40:44,818 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:46,924 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:50,954 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:53,469 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:40:53,498 INFO  [Log] User is on Home Page 
+2018-12-22 20:40:54,061 INFO  [Log] User is on Open New Account Page 
+2018-12-22 20:40:55,548 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:40:57,849 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:41:01,774 INFO  [Log] Config file is accessed successfully 
+2018-12-22 20:41:04,249 INFO  [Log] User has Logged in Successfully 
+2018-12-22 20:41:04,270 INFO  [Log] User is on Home Page 
+2018-12-22 20:41:04,972 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 20:41:06,050 INFO  [Log] User clicks on fund transfer 
+2018-12-22 20:41:06,087 INFO  [Log] Fund transferred successfully 
+2018-12-22 23:30:18,849 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:27,263 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:29,912 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:30:29,938 INFO  [Log] User is on Home Page 
+2018-12-22 23:30:30,605 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:32,937 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:36,715 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:39,155 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:30:39,176 INFO  [Log] User is on Home Page 
+2018-12-22 23:30:39,691 INFO  [Log] User is on Open New Account Page 
+2018-12-22 23:30:41,091 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:43,182 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:47,133 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:30:49,651 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:30:49,679 INFO  [Log] User is on Home Page 
+2018-12-22 23:30:50,345 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 23:30:51,334 INFO  [Log] User clicks on fund transfer 
+2018-12-22 23:30:51,373 INFO  [Log] Fund transferred successfully 
+2018-12-22 23:37:07,662 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:14,061 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:16,175 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:37:16,269 INFO  [Log] User is on Home Page 
+2018-12-22 23:37:16,396 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:17,452 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:20,900 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:24,126 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:37:24,159 INFO  [Log] User is on Home Page 
+2018-12-22 23:37:24,688 INFO  [Log] User is on Open New Account Page 
+2018-12-22 23:37:25,590 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:26,659 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:30,282 INFO  [Log] Config file is accessed successfully 
+2018-12-22 23:37:32,152 INFO  [Log] User has Logged in Successfully 
+2018-12-22 23:37:32,182 INFO  [Log] User is on Home Page 
+2018-12-22 23:37:32,706 INFO  [Log] User navigated to Fund Transfer Page 
+2018-12-22 23:37:33,148 INFO  [Log] User clicks on fund transfer 
+2018-12-22 23:37:33,415 INFO  [Log] Fund transferred successfully 
